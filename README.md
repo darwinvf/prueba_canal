@@ -1,2 +1,2 @@
-# prueba_canal
+# prueba_proy
 Prueba proyectos
